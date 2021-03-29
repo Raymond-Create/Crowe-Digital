@@ -3,8 +3,6 @@ Digital Transformation
 
 Goodday!!!
 
-My Name is Raymond Sibanda
-
 I m working on a project of creating a collaborative tool that can be licensed and patent providing royalities as revenue. 
 
 (i) No need of coding
@@ -14,3 +12,4 @@ I m working on a project of creating a collaborative tool that can be licensed a
 Those that are interested drop me an email: raymond.sibanda@crowe.co.zw
 
 Let the games begin
+RBS
